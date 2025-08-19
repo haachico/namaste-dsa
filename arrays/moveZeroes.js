@@ -27,3 +27,11 @@ const moveZeroes = (nums)=> {
 
 console.log(moveZeroes([0,1,0,3,12]))
 
+
+
+//Akshay's soln was tlao the same just 
+
+// for (let i = p1; i < nums.length; i++){
+    
+//        nums[i] = 0;
+//     }
